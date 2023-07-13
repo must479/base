@@ -879,6 +879,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "baseTestnet",
+  "icons": [{
+    "url": "ipfs://QmaxRoHpxZd8PqccAynherrMznMufG6sdmHZLihkECXmZv",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
+  }]
+}, {
   "name": "tcg_verse",
   "icons": [{
     "url": "ipfs://bafkreidg4wpewve5mdxrofneqblydkrjl3oevtgpdf3fk3z3vjqam6ocoe",
@@ -1556,6 +1564,14 @@
     "url": "ipfs://QmfFK6B4MFLrpSS46aLf7hjpt28poHFeTGEKEuH248Tbyj",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "base",
+  "icons": [{
+    "url": "ipfs://QmaxRoHpxZd8PqccAynherrMznMufG6sdmHZLihkECXmZv",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
